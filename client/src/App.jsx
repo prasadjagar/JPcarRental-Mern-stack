@@ -5,7 +5,7 @@ import Home from './pages/Home.jsx';
 import Cars from './pages/Cars.jsx';
 import CarDetails from './pages/CarDetails.jsx';
 import MyBookings from './pages/MyBookings.jsx';
-import Footer from './components/footer.jsx';
+import Footer from './components/Footer.jsx';
 import Layout from './pages/owner/Layout.jsx';
 import Dashboard from './pages/owner/Dashboard.jsx';
 import AddCar from './pages/owner/AddCar.jsx';
